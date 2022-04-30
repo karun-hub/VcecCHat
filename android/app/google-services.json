@@ -15,34 +15,21 @@
       },
       "oauth_client": [
         {
-          "client_id": "158414602065-q32grstsdrjah6t88nbgasv7al1v9l15.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
+          "client_id": "158414602065-47m07sp24q91fqoohirbrn14p7u2hnnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cec.proddec",
+            "certificate_hash": "470fa0b7e3a34c4ad243ba345bbc37963072d8cf"
+          }
+        },
         {
-          "current_key": "AIzaSyCFrvnl_g4obANcIR4EhopTnrA8PoRbBhY"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "158414602065-q32grstsdrjah6t88nbgasv7al1v9l15.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:158414602065:android:8c84b0e25936803df21d70",
-        "android_client_info": {
-          "package_name": "com.example.proddeccec"
-        }
-      },
-      "oauth_client": [
+          "client_id": "158414602065-beh54b1cm91lijlq4morio7uuni3dr1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cec.proddec",
+            "certificate_hash": "6606ba9add35dfe7fca12d0a77b176133a428232"
+          }
+        },
         {
           "client_id": "158414602065-q32grstsdrjah6t88nbgasv7al1v9l15.apps.googleusercontent.com",
           "client_type": 3

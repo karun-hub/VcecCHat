@@ -13,7 +13,7 @@ class DatabaseMethods {
   Future<Stream<QuerySnapshot>> getUserByUserName(String username) async {
     return FirebaseFirestore.instance
         .collection("user")
-        .where("username", isEqualTo: username)
+        .where("name", isEqualTo: username)
         .snapshots();
   }
 
